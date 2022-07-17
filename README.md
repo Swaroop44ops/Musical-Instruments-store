@@ -16,13 +16,13 @@ Musical instruments store is a [DBMS project] with both admin and user layouts.
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-advanced.git).
+3. Download project from github(https://github.com/Swaroop44ops/Musical-Instruments-store).
  
  OR follow gitbash commands
 
     i>cd C:\\xampp\htdocs\
 
-    ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-advanced.git
+    ii>git clone (https://github.com/Swaroop44ops/Musical-Instruments-store)
 
 4. extract files in C:\\xampp\htdocs\.
 
@@ -34,7 +34,7 @@ Musical instruments store is a [DBMS project] with both admin and user layouts.
 
 8. after creating database name click on import.
 
-9. browse the file in directory [online-shopping-system-advanced/database/onlineshop.sql].
+9. browse the file in directory [Musical-Instruments-store/database/onlineshop.sql].
 
 10. open any browser and type http://onlineshop
 
