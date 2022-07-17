@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/puneethreddyhc/online-shopping-system-advanced)
 ![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.onlineadv)
 
-<a href="https://www.buymeacoffee.com/puneethreddyhc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
+<a href="https://www.buymeacoffee.com/Swaroop44ops" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
 
 
 <h2> Projects with installation support and code explaination for Premium contact phone: +919535688928 gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
@@ -44,10 +44,6 @@ Musical instruments store is a [DBMS project] with both admin and user layouts.
 
 ## If you like my project 
    Bye me Cup of coffee
-
-### Google pay or phonepay number 9535688928
-
-
 
 ## If you like my project hit a start
 
